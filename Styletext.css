@@ -1,0 +1,55 @@
+.unswer1{
+    border: 2px;
+    padding: 2px 1px;
+    border-style: solid;
+    position: absolute;
+    top: 60%;
+    left: 46%;
+}
+.podgorodom{
+    position: absolute;
+    top: 30%;
+    left: 12%;
+    z-index: 5;
+}
+.unswer2{
+    position: absolute;
+    top: 60%;
+    left: 46%;
+}
+.podgorodom1{
+    position: absolute;
+    top: 30%;
+    left: 27%;
+    z-index: 5;
+}
+.first{
+    position: absolute;
+    top: 35%;
+    left: 17%;
+    z-index: 5;
+}
+.domik{
+    border: 2px;
+    padding: 2px 1px;
+    border-style: solid;
+    position: absolute;
+    top: 90%;
+    left: 90%;
+}
+.unswer3{
+    position: absolute;
+    top: 60%;
+    left: 44%;
+}
+.unswer4{
+    position: absolute;
+    top: 70%;
+    left: 46%;
+}
+.first1{
+    position: absolute;
+    top: 25%;
+    left: 19%;
+    z-index: 5;
+}
